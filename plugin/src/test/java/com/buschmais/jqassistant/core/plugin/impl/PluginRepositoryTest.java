@@ -28,6 +28,7 @@ import static org.mockito.Mockito.mock;
  */
 public class PluginRepositoryTest {
 
+
     /**
      * Verifies that properties are loaded and passed to plugins.
      */
