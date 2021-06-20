@@ -1,4 +1,4 @@
-﻿package com.buschmais.jqassistant.core.plugin.impl;
+package com.buschmais.jqassistant.core.plugin.impl;
 
 import java.net.URL;
 import java.util.Arrays;
